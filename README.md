@@ -2,4 +2,6 @@
 
 - Verificando proyecto
 
+aqui puedo dejar una nota
+
 ```Valla si que funciona```
